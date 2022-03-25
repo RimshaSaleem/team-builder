@@ -4,7 +4,7 @@ import React from 'react';
 
 
  const Result = styled.input`
- border:2px solid grey;
+ 
  width:25%;
  height:6vh;
  margin-left:1%;
